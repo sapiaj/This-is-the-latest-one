@@ -1,39 +1,44 @@
----
-Title: Jeremy Sapia 
+title: Marco Flores
 education:
   courses:
-  - course: M.S. in Industrial-Organizational Psychology
-    institution: Texas A&M University 
-    year: 2023
-  - course: B.S. in Psychology
-    institution: Spring Hill College
+  - course: MSc in Industiral Organizational Psychology
+    institution: Texas A&M University
+    year: Expected 2023
+  - course: BSc in Psychology
+    institution: University of Texas Rio Grande Valley
     year: 2021
-email: "sapiaj@tamu.edu"
-first_name: Jeremy
+email: "florma49055@gmail.com"
+first_name: Marco
 highlight_name: true
 interests:
 - People Analytics
-- Performance Management 
-- Learning and Development
-- DE&I
-last_name: Sapia
+- Human Capital Advisory
+- Organizational Behavior
+- Managing Groups and Teams
+- Chess
+last_name: Flores
 organizations:
-- name: Texas A&M University 
-  url: https://liberalarts.tamu.edu/psychology/msprogram/
-role: Master's Candidate 
+- name: Texas A&M University
+  url: https://liberalarts.tamu.edu/psychology/msprogram/connect-with-us/#students
+role: Master Candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto: sapiaj@tamu.edu 
+  link: mailto:florma49055@gmail.com
+- display:
+    header: true
+- icon: github
+  icon_pack: fab
+  link: https://github.com/MarcoFloo
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jeremy-sapia-io
+  link: https://linkedin.com/in/marco-f-093326225
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1hD5z7EWgY0zO6ns_jIM7QpWpXzFjHiRx/view?usp=share_link
+  link: https://drive.google.com/file/d/1XXJnB987dQA_tHnzpxumq8vwo72_fxpQ/view?usp=sharing
+
 superuser: true
-title: Jeremy Sapia
+bio:
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am a Master student in Industrial Organizational Psychology at Texas A&M University
